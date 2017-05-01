@@ -5,4 +5,8 @@ A:  see modification of gitignore file from chain
 A:  Keep coding...  
 
 
-A:  what happen?
+
+C: I am coding, too.   
+A:  what happen?  
+A:  OK, handle out the file conflicts.    
+
