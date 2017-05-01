@@ -11,3 +11,4 @@ A:  what happen?
 A:  OK, handle out the file conflicts.  
 A:  Let's merge to the MASTER branch.    
 
+A: move to stage 2
