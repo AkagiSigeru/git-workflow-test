@@ -8,5 +8,6 @@ A:  Keep coding...
 
 C: I am coding, too.   
 A:  what happen?  
-A:  OK, handle out the file conflicts.    
+A:  OK, handle out the file conflicts.  
+A:  Let's merge to the MASTER branch.    
 
